@@ -26,7 +26,7 @@ If you need help or something you can open a issue.
 
 ## Installation
 
-* Download [Release](https://github.com/N0rmie/NK-GUUID-SPOOFER-Trial-Reactivator/releases) / SRC / Clone the repo (`git clone https://github.com/N0rmie/NK-GUUID-SPOOFER-Trial-Reactivator`)
+* Download [Release](https://github.com/N0rmie/NK-GUUID-SPOOFER-Trial-Reactivator/releases) / SRC / Clone the repo (`git clone https://github.com/N0rmie/NK-GUID-SPOOFER-Trial-Reactivator.git`)
 * Compile it (If you downloaded SRC)
 * Success!!! <3
 
