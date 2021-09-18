@@ -34,6 +34,7 @@ If you need help or something you can open a issue.
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
+**IM NOT RESPONSIBLE OF ANYTHING YOU CAN DO WITH THIS**
 
 
 [product-screenshot]: screenshot.png
