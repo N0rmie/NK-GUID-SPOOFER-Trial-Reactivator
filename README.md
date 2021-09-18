@@ -7,7 +7,6 @@
     A GUUID Spoofer That Can Be Used To Reactivate Your Freeware Programs Which Use GUUID As Identifier
   </p>
 </p>
-## About
 
 ![screenshot](https://user-images.githubusercontent.com/90983482/133906525-b4e2bea5-440f-455b-9df7-e27b00d4d525.PNG)
 
