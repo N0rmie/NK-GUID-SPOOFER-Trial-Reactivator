@@ -1,0 +1,7 @@
+C:\Users\Sermicro\source\repos\NK-TRIAL REACTIVATOR\NK-TRIAL REACTIVATOR\bin\Debug\NK-TRIAL REACTIVATOR.exe.config
+C:\Users\Sermicro\source\repos\NK-TRIAL REACTIVATOR\NK-TRIAL REACTIVATOR\bin\Debug\NK-TRIAL REACTIVATOR.exe
+C:\Users\Sermicro\source\repos\NK-TRIAL REACTIVATOR\NK-TRIAL REACTIVATOR\bin\Debug\NK-TRIAL REACTIVATOR.pdb
+C:\Users\Sermicro\source\repos\NK-TRIAL REACTIVATOR\NK-TRIAL REACTIVATOR\obj\Debug\NK-TRIAL REACTIVATOR.csproj.AssemblyReference.cache
+C:\Users\Sermicro\source\repos\NK-TRIAL REACTIVATOR\NK-TRIAL REACTIVATOR\obj\Debug\NK-TRIAL REACTIVATOR.csproj.CoreCompileInputs.cache
+C:\Users\Sermicro\source\repos\NK-TRIAL REACTIVATOR\NK-TRIAL REACTIVATOR\obj\Debug\NK-TRIAL REACTIVATOR.exe
+C:\Users\Sermicro\source\repos\NK-TRIAL REACTIVATOR\NK-TRIAL REACTIVATOR\obj\Debug\NK-TRIAL REACTIVATOR.pdb
