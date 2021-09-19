@@ -1,10 +1,9 @@
-# NK-GUUID-SPOOFER-Trial-Reactivator
+# NK-GUID-SPOOFER-Trial-Reactivator
 <br />
 <p align="center">
-  <h3 align="center">NK-GUUID SPOOFER</h3>
 
   <p align="center">
-    A GUUID Spoofer That Can Be Used To Reactivate Your Freeware Programs Which Use GUUID As Identifier
+    A GUID Spoofer That Can Be Used To Reactivate Your Freeware Programs Which Use GUID As Identifier
   </p>
 </p>
 
